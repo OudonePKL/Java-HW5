@@ -1,2 +1,2 @@
 # Java-HW5
-My java projects
+My java and Python projects
